@@ -19,8 +19,8 @@ La compañía Sweet Lift Taxi ha recopilado datos históricos sobre pedidos de t
 La métrica RECM en el conjunto de prueba no debe ser superior a 48.
 
 # Diccionario de datos
-La ubicación del archivo es en `./datasets/taxi.csv`
-`datetime`: fecha y hora 
+La ubicación del archivo es en `./datasets/taxi.csv`  
+`datetime`: fecha y hora   
 `num_orders`: Cantidad de taxis pedidos 
 
 ## Plan del proyecto
